@@ -1,8 +1,8 @@
 ## Hello 👋
 
-My name is [Emiliano], I'm from [Buenos_Aires/Argentina], and I'm a Full Stack Developer.
+My name is Emiliano, I'm from Buenos_Aires/Argentina, and I'm a Full Stack Developer.
 
-- 🔭 I’m currently working on [librery_app proyect] [https://github.com/EmiNu5/library_app]
+- 🔭 I’m currently working on librery_app proyect [https://github.com/EmiNu5/library_app]
 - 🌱 I’m learning Python for RPA
 - 📚 I'm studying an programming technique degree
 
